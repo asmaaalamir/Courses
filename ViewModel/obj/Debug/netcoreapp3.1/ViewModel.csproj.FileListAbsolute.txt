@@ -1,0 +1,16 @@
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csprojAssemblyReference.cache
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.runtimeconfig.dev.json
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\Electronica Care\Desktop\Course\ViewModel\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\Electronica Care\Desktop\Course\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.genruntimeconfig.cache

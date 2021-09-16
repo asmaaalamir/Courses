@@ -1,0 +1,17 @@
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Electronica Care\Desktop\Course\Repositories\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\Electronica Care\Desktop\Course\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
